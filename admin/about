@@ -1,0 +1,13 @@
+<!Doctype html>
+<form action="aboutform.php" method="post">
+	<label>Title</label>
+	<input type="text" name="title">
+	<label>Subtitle</label>
+	<input type="text" name="subtitle">
+	<label>Button Text</label>
+	<input type="text" name="btntext">
+	<label>Image</label>
+	<input type="text" name="imag">
+
+	<button type="submit"> Submit</button>
+</form>
